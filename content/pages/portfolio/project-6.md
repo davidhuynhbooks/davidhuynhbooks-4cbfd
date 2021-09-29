@@ -1,6 +1,6 @@
 ---
 title: Why Is Elly Covered In Jelly?
-subtitle: Brand Development
+subtitle: A 5 Why Problem Solving Book
 date: '2021-02-06'
 thumb_image: /images/FrontCover.jpeg
 thumb_image_alt: Subtle preview
