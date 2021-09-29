@@ -1,6 +1,6 @@
 ---
 title: Super Elly - Problem Solver
-subtitle: Editorial Design
+subtitle: The Mystery of the Missing Broccoli (A 5S Book
 date: '2021-01-10'
 thumb_image: /images/3.jpg
 thumb_image_alt: Nature Magazine preview
