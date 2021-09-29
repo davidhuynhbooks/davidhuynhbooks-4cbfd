@@ -6,8 +6,12 @@ sections:
     section_id: hero
     title: Children's books by David Huynh
     content: >
-      I write children's books that promote creative thinking and problem
+      Hi! I write children's books that promote creative thinking and problem
       solving.
+
+
+      Did you know that children who are taught problem solving skills are
+      smarter, more independent, and more creative?  **It's true!**
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
