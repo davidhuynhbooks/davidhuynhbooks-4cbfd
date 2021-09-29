@@ -1,5 +1,5 @@
 ---
-title: Super Elly - Problem Solver
+title: Super Elly - Problem Solver (COMING SOON!)
 subtitle: The Mystery of the Missing Broccoli (A 5S Book)
 date: '2021-01-10'
 thumb_image: /images/3.jpg
