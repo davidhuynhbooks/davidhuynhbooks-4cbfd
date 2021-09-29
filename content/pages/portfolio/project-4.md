@@ -1,6 +1,6 @@
 ---
 title: Elly and Friends
-subtitle: Editorial Design
+subtitle: JUMBO Coloring and Activity Book
 date: '2020-05-10'
 thumb_image: /images/ActivityBook.png
 thumb_image_alt: Nature Mockup Magazine preview
