@@ -12,6 +12,15 @@ sections:
 
       Did you know that children who are taught problem solving skills are
       smarter, more independent, and more creative?  **It's true!**
+
+
+      Did you also know that everyone, including children, learn more readily
+      when they are happy?  **That's true, too!**
+
+
+      My books are funny and educational, with the full intention of making
+      children and parents happy while learning problem solving tools and
+      techniques.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
