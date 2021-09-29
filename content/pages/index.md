@@ -7,7 +7,7 @@ sections:
     title: David Huynh
     content: >
       I write children's books that promote creative thinking and problem
-      solving. [Stay connected to know when the next book is
+      solving.  [Stay connected to know when the next book is
       released.](/contact/)
   - type: portfolio_section
     section_id: latest-projects
