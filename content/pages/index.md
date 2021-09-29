@@ -92,8 +92,9 @@ sections:
         avatar_alt: Dianne Ameter's photo
         position: 'CTO, Another Company'
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          David is a master of process management, and this simple format of a
+          kids book gets the point of "5 whys" across better than any expert
+          authors.
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
