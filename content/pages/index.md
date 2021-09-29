@@ -79,7 +79,7 @@ sections:
   - type: testimonials_section
     section_id: testimonials
     title: Testimonials
-    subtitle: What our Clients say
+    subtitle: What people are saying about the Elly Problem Solving books
     col_number: three
     testimonials:
       - author: Desmond Eagle
