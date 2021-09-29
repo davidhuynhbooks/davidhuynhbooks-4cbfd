@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: David Huynh
+    title: Children's books by David Huynh
     content: >
       I write children's books that promote creative thinking and problem
       solving.
