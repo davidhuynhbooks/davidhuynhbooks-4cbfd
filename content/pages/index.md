@@ -13,7 +13,7 @@ sections:
     section_id: latest-projects
     layout_style: tiles
     title: Books
-    subtitle: Explore case studies
+    subtitle: Explore reading and activity books
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
