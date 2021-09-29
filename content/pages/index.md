@@ -1,5 +1,5 @@
 ---
-title: 'Home '
+title: Home | David Huynh Books
 hide_title: true
 sections:
   - type: hero_section
