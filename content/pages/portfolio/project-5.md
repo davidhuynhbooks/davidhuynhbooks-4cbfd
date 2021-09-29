@@ -1,5 +1,5 @@
 ---
-title: Nature Magazine
+title: Super Elly - Problem Solver
 subtitle: Editorial Design
 date: '2021-01-10'
 thumb_image: /images/3.jpg
