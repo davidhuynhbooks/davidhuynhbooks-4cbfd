@@ -1,5 +1,5 @@
 ---
-title: 'Elly and Friends '
+title: Elly and Friends
 subtitle: Editorial Design
 date: '2020-05-10'
 thumb_image: /images/ActivityBook.png
