@@ -14,8 +14,7 @@ sections:
 
 
       My books are funny and educational, with the full intention of making
-      children and parents happy while learning problem solving tools and
-      techniques.
+      children and parents happy while learning tools to solve problems better.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
