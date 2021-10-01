@@ -7,7 +7,7 @@ sections:
     subtitle: All books are available around the world on Amazon!
     col_number: three
     grid_items:
-      - title: lorem-ipsum
+      - title: Amazon.com
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
