@@ -35,8 +35,6 @@ sections:
       - image: /images/pencil-g54063ad42_640-e317c258.png
         image_alt: Activity Pages
         subtitle: activity pages
-      - image: images/logo-4.svg
-        image_alt: Logo 4
       - image: images/logo-5.svg
         image_alt: Logo 5
   - type: testimonials_section
