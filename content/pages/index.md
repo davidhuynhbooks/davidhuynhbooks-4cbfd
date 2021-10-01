@@ -31,6 +31,7 @@ sections:
     grid_items:
       - image: /images/crayon-colored-pencil-g93c4f2f8b_640-5dc118c4.png
         image_alt: Logo 1
+        subtitle: coloring pages
       - image: /images/pencil-g54063ad42_640-e317c258.png
         image_alt: Activity Pages
       - image: images/logo-3.svg
