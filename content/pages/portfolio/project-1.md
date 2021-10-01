@@ -1,5 +1,5 @@
 ---
-title: Design Is One
+title: Why Is Elly Covered In Jelly
 subtitle: Print
 date: '2020-02-10'
 thumb_image: /images/FrontCover-c8d67b0f.jpeg
