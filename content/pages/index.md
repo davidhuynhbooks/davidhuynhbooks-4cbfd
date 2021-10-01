@@ -57,9 +57,11 @@ sections:
   - type: cta_section
     section_id: cta
     title: Connect With Me!
-    content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
-      about your project by getting started below.
+    content: >
+      Say hello on social media.  I am on
+      [Twitter](https://twitter.com/davidhuynhbooks),
+      [Instagram](https://www.instagram.com/davidhuynhbooks), and
+      [Facebook](https://www.facebook.com/davidhuynhbooks): @davidhuynhbooks.
     actions:
       - label: Let's start
         url: /contact
