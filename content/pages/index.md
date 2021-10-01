@@ -37,7 +37,7 @@ sections:
         subtitle: activity pages
   - type: testimonials_section
     section_id: testimonials
-    title: Testimonials
+    title: Book Reviews
     subtitle: What people are saying about the Elly Problem Solving books
     col_number: three
     testimonials:
