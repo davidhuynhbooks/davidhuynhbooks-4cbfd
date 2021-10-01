@@ -80,6 +80,7 @@ sections:
 
           - dolor sit amet
         actions: []
+        image: /images/2.jpg
   - type: testimonials_section
     section_id: testimonials
     title: Testimonials
