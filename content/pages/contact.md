@@ -3,7 +3,7 @@ title: Shop Books
 hide_title: false
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Shop Books
     subtitle: lorem-ipsum
     col_number: three
     grid_items: []
