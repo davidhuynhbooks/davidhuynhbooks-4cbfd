@@ -33,6 +33,7 @@ sections:
         image_alt: Logo 1
       - image: /images/pencil-g54063ad42_640-e317c258.png
         image_alt: Logo 2
+        title: Coloring Pages
       - image: images/logo-3.svg
         image_alt: Logo 3
       - image: images/logo-4.svg
