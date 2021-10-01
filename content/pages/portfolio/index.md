@@ -1,6 +1,6 @@
 ---
 title: Books
-subtitle: This is an optional subtitle for the portfolio page
+subtitle: Current and upcoming titles.
 layout_style: mosaic
 seo:
   title: Portfolio
