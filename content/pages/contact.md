@@ -1,6 +1,6 @@
 ---
 title: Shop Books
-hide_title: false
+hide_title: true
 sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
