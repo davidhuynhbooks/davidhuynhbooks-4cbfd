@@ -1,5 +1,5 @@
 ---
-title: Why Is Elly Covered In Jelly
+title: Why Is Elly Covered In Jelly??
 subtitle: A 5 Why Problem Solving Book
 date: '2021-07-17'
 thumb_image: /images/FrontCover-c8d67b0f.jpeg
