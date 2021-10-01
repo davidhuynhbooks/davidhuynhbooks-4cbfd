@@ -17,7 +17,7 @@ sections:
       children and parents happy while learning tools to solve problems better.
   - type: portfolio_section
     section_id: latest-projects
-    layout_style: mosaic
+    layout_style: tiles
     title: Books
     subtitle: Explore reading and activity books
     projects_number: 6
