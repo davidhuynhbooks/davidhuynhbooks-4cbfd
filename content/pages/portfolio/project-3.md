@@ -1,7 +1,7 @@
 ---
 title: Super Elly Problem Solver
 subtitle: The Mystery of the Missing Broccoli (A 5S Book)
-date: '2021-11-01'
+date: '2021-11-11'
 thumb_image: /images/3-a2e24e31.jpg
 thumb_image_alt: The Book preview
 sections:
