@@ -39,32 +39,6 @@ sections:
         image_alt: Logo 4
       - image: images/logo-5.svg
         image_alt: Logo 5
-  - type: grid_section
-    section_id: services
-    title: Services
-    subtitle: What we do
-    col_number: three
-    grid_items:
-      - title: Business design
-        image: images/service-1.svg
-        content: |-
-          - Research and insight
-          - Business innovation and transformation
-          - Brand and strategy
-          - Brand portfolio strategy
-          - Design strategy
-          - Digital and experience strategy
-          - Communication strategy
-      - title: Brand design
-        image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
   - type: testimonials_section
     section_id: testimonials
     title: Testimonials
