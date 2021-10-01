@@ -1,7 +1,7 @@
 ---
 title: Elly and Friends (COMING SOON!)
 subtitle: Jumbo Coloring and Activity Book
-date: '2020-11-11'
+date: '0020-11-10'
 thumb_image: /images/ActivityBook-90980efd.png
 thumb_image_alt: Aimi preview
 sections:
