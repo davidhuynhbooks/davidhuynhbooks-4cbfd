@@ -1,22 +1,7 @@
 ---
 title: Shop Books
 hide_title: false
-sections:
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    actions: []
-    type: hero_section
+sections: []
 seo:
   title: Contact
   description: This is the contact page
