@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: lorem-ipsum
     title: Shop Books
-    subtitle: lorem-ipsum
+    subtitle: All books are available around the world on Amazon!
     col_number: three
     grid_items: []
     type: grid_section
