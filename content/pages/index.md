@@ -29,7 +29,7 @@ sections:
     subtitle: Free coloring and activity pages
     col_number: three
     grid_items:
-      - image: images/logo-1.svg
+      - image: /images/crayon-colored-pencil-g93c4f2f8b_640.png
         image_alt: Logo 1
       - image: images/logo-2.svg
         image_alt: Logo 2
