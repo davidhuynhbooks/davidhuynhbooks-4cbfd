@@ -1,5 +1,5 @@
 ---
-title: 'Super Elly '
+title: Super Elly Problem Solver
 subtitle: Editorial Design
 date: '2020-04-10'
 thumb_image: images/work-book-cover-1-thumb.jpg
