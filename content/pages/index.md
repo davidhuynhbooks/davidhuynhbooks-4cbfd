@@ -26,7 +26,7 @@ sections:
   - type: grid_section
     section_id: clients
     title: Downloadable Resources
-    subtitle: Free coloring and activity pages
+    subtitle: Free coloring and activity pages (
     col_number: three
     grid_items:
       - image: /images/crayon-colored-pencil-g93c4f2f8b_640-5dc118c4.png
