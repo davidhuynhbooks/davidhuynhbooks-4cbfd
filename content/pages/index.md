@@ -8,17 +8,9 @@ sections:
     content: >
       Hi! I write children's books that promote creative thinking and problem
       solving. Did you know that children who are taught problem solving skills
-      are smarter, more independent, and more creative?
-
-
-      **It's true!**
-
-
-      Did you also know that everyone, including children, learn more readily
-      when they are happy?
-
-
-      **That's true, too!**
+      are smarter, more independent, and more creative?**  It's true**!  Did you
+      also know that everyone, including children, learn more readily when they
+      are happy?**  That's true, too!**
 
 
       My books are funny and educational, with the full intention of making
