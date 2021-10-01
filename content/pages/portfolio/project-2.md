@@ -1,5 +1,5 @@
 ---
-title: Aimi
+title: Elly and Friends
 subtitle: Brand Development
 date: '2020-03-10'
 thumb_image: /images/ActivityBook-90980efd.png
