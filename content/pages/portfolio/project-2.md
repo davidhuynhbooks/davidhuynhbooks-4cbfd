@@ -1,6 +1,6 @@
 ---
 title: Elly and Friends
-subtitle: Brand Development
+subtitle: Jumbo Coloring and Activity Book
 date: '2020-03-10'
 thumb_image: /images/ActivityBook-90980efd.png
 thumb_image_alt: Aimi preview
