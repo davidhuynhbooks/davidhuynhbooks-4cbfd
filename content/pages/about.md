@@ -3,15 +3,26 @@ title: My Story
 hide_title: false
 sections:
   - type: content_section
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
-      venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
-      magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus
-      sagittis enim est, et semper lectus hendrerit ut.
+    content: >+
+      I graduated from the University of Texas at Dallas with a B.S. in Computer
+      Science and an M.S. in Information Technology Management. I am
+      professionally certified in several areas of project management and lean
+      six sigma.  I have spent my career integrating people, process, and
+      technology and I am know translating that experience into funny and
+      accessible books that parents and children love to read.  Writing
+      children's books combines my passions of family, creativity, learning, and
+      problem solving.
 
 
-      In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
-      turpis et nisi fermentum accumsan.
+      Every book read supports my goal of promoting children's literacy and
+      education.
+
+
+      I live in Dallas, TX with my wife and two daughters.  My youngest
+      daughter, Elly, is the inspiration for these stories.  I have learned more
+      from her than any book or class.  Seeing the world from her eyes fills
+      each day with joy and possibility.
+
     image: images/about.jpg
     image_alt: Our team in the meeting room
   - type: grid_section
