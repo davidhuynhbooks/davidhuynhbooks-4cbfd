@@ -13,9 +13,9 @@ layout: post
 thumb_image: /images/Stackbit App.png
 image: /images/Stackbit App.png
 ---
-## Lorem ipsum
+## Lorem ipsumContent
 
 Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
+*   Lorem ipsum
+*   dolor sit amet
