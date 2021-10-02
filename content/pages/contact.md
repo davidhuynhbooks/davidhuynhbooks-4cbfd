@@ -78,6 +78,6 @@ seo:
     - name: 'twitter:title'
       value: Shop
     - name: 'twitter:description'
-      value: This is the contact page
+      value: This is the shop page
 layout: advanced
 ---
