@@ -51,6 +51,7 @@ sections:
             no_follow: false
         title: Buy on Amazon.com
         subtitle: 'or internationally:'
+        image: /images/amazon-logo-transparent100w-59af7181.png
       - title: 'Dallas, TX'
         subtitle: exclusive offer
         image_alt: lorem-ipsum
