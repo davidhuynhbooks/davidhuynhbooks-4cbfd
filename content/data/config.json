@@ -64,5 +64,6 @@
             }
         ]
     },
-    "domain": "https://davidhuynhbooks.com"
+    "domain": "https://davidhuynhbooks.com",
+    "favicon": "/images/author portrait-cebfa2bb.jpeg"
 }
