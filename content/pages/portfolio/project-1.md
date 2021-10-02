@@ -22,7 +22,7 @@ sections:
       more independent, and more creative.
 
 
-      *With this book children of all ages can easily learn the 5 Why technique
+      With this book children of all ages can easily learn the 5 Why technique
       that has been used for decades in Fortune 500 organizations, in a fun
       story with beautiful illustrations. The 5 Why technique was created by
       Sakichi Toyoda and was famously used within the Toyota Motor Corporation.
