@@ -38,7 +38,8 @@ sections:
           ![](/images/amazon-logo-transparent100w-59af7181.png)
         actions:
           - label: Buy on Amazon.com
-            url: '#'
+            url: >-
+              https://www.amazon.fr/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book_1
             style: link
             icon: dribbble
             new_window: false
