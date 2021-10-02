@@ -14,7 +14,7 @@ sections:
           <br>![](/images/amazon-logo-transparent100w-cd644bb3.png)
 
 
-          **Buy on
+          <br>**Buy on
           [Amazon.com](https://www.amazon.com/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
           and internationally:**
 
