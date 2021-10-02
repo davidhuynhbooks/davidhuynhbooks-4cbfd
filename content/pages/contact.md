@@ -61,7 +61,7 @@ sections:
         actions: []
     type: grid_section
 seo:
-  title: Contact
+  title: Shop
   description: This is the contact page
   extra:
     - name: 'og:type'
