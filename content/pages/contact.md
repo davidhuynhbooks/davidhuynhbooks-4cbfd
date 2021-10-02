@@ -24,13 +24,17 @@ sections:
       - title: 'Dallas, TX'
         subtitle: exclusive offer
         image_alt: lorem-ipsum
-        content: >
+        content: >+
           Available at **MeLisa the Pie Lady**<br>*Buy a delicious pie and a
           book at the same time!*
 
 
-          3805 Main St.<br>The Colony, TX
-          75056<br>[melisathepielady.com](https://melisathepielady.com)
+          3805 Main St.The Colony, TX
+          75056[melisathepielady.com](https://melisathepielady.com)
+
+
+          ![](/images/melisa-logo-1-1-92x100.png)
+
         actions: []
     type: grid_section
 seo:
