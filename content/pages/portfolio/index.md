@@ -4,7 +4,7 @@ subtitle: Current and upcoming titles.
 layout_style: mosaic
 seo:
   title: Books
-  description: This is the portfolio page
+  description: This is the books page
   extra:
     - name: 'og:type'
       value: website
