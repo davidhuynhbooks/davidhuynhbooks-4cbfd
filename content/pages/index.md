@@ -69,7 +69,7 @@ sections:
         icon: twitter
         new_window: true
       - label: instagram
-        url: '#'
+        url: 'https://www.instagram.com/davidhuynhbooks'
         style: icon
         icon: instagram
         new_window: false
