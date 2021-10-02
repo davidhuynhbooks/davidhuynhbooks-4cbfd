@@ -9,15 +9,31 @@ sections:
       - title: Buy on Amazon.com
         subtitle: or internationally on
         image_alt: lorem-ipsum
-        content: |
-          *   amazon.co.uk
-          *   amazon.de
-          *   amazon.fr
-          *   amazon.es
-          *   amazon.it
-          *   amazon.co.jp
-          *   amazon.ca
-          *   amazon.com.au
+        content: >
+          *  
+          [amazon.co.uk](https://www.amazon.co.uk/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
+
+          *  
+          [amazon.de](https://www.amazon.de/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
+
+          *  
+          [amazon.fr](https://www.amazon.fr/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
+
+          *  
+          [amazon.es](https://www.amazon.es/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
+
+          *  
+          [amazon.it](https://www.amazon.it/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
+
+          *  
+          [amazon.co.jp](https://www.amazon.co.jp/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
+
+          *  
+          [amazon.ca](https://www.amazon.ca/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
+
+          *  
+          [amazon.com.au](https://www.amazon.com.au/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
+
 
           ![](/images/amazon-logo-transparent100w-59af7181.png)
         actions: []
