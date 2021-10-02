@@ -56,7 +56,7 @@ sections:
           authors.
   - type: cta_section
     section_id: cta
-    title: Connect With Me!
+    title: Let's stay connected!
     content: >
       Say hello on social media.  I am on
       [Twitter](https://twitter.com/davidhuynhbooks),
