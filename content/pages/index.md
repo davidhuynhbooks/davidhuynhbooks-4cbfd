@@ -63,7 +63,7 @@ sections:
       [Instagram](https://www.instagram.com/davidhuynhbooks), and
       [Facebook](https://www.facebook.com/davidhuynhbooks): @davidhuynhbooks.
     actions:
-      - label: Let's start
+      - label: twitter
         url: /contact
         style: icon
         icon: facebook
