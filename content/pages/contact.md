@@ -42,7 +42,13 @@ sections:
 
           *  
           [*amazon.com.au*](https://www.amazon.com.au/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
       - title: 'Dallas, TX'
         subtitle: exclusive offer
         image_alt: lorem-ipsum
