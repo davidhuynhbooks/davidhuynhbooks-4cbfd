@@ -8,37 +8,37 @@ sections:
     grid_items:
       - image_alt: lorem-ipsum
         content: >
-          ####  ![](/images/amazon-logo-transparent100w.png)
+          #### ![](/images/amazon-logo-transparent100w.png)
 
 
-          Buy on
-          [**Amazon.com**](https://www.amazon.com/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
-          and internationally:
+          *Buy on
+          *[***Amazon.com***](https://www.amazon.com/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)*
+          and internationally:*
 
 
           *  
-          [amazon.co.uk](https://www.amazon.co.uk/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
+          [*amazon.co.uk*](https://www.amazon.co.uk/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
 
           *  
-          [amazon.de](https://www.amazon.de/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
+          [*amazon.de*](https://www.amazon.de/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
 
           *  
-          [amazon.fr](https://www.amazon.fr/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
+          [*amazon.fr*](https://www.amazon.fr/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
 
           *  
-          [amazon.es](https://www.amazon.es/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
+          [*amazon.es*](https://www.amazon.es/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
 
           *  
-          [amazon.it](https://www.amazon.it/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
+          [*amazon.it*](https://www.amazon.it/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
 
           *  
-          [amazon.co.jp](https://www.amazon.co.jp/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
+          [*amazon.co.jp*](https://www.amazon.co.jp/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
 
           *  
-          [amazon.ca](https://www.amazon.ca/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
+          [*amazon.ca*](https://www.amazon.ca/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
 
           *  
-          [amazon.com.au](https://www.amazon.com.au/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
+          [*amazon.com.au*](https://www.amazon.com.au/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
         actions: []
       - title: 'Dallas, TX'
         subtitle: exclusive offer
