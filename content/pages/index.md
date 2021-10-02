@@ -76,7 +76,7 @@ sections:
       - label: lorem-ipsum
         url: '#'
         style: icon
-        icon: dribbble
+        icon: facebook
         new_window: false
         no_follow: false
     image: images/cta.svg
