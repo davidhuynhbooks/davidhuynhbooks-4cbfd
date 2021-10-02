@@ -6,7 +6,7 @@ sections:
     subtitle: Books ship free through Amazon Prime around the world.
     col_number: three
     grid_items:
-      - title: lorem-ipsum
+      - title: Buy on Amazon.com
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: |
