@@ -11,7 +11,7 @@ sections:
           ####
 
 
-          ![](/images/amazon-logo-transparent100w-cd644bb3.png)
+          <br>![](/images/amazon-logo-transparent100w-cd644bb3.png)
 
 
           **Buy on
