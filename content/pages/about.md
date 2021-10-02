@@ -50,7 +50,7 @@ sections:
         new_window: false
         no_follow: false
 seo:
-  title: About Us
+  title: About Me
   description: This is the about us page
   extra:
     - name: 'og:type'
