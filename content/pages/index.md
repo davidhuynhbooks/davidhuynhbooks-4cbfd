@@ -58,10 +58,8 @@ sections:
     section_id: cta
     title: Let's stay connected!
     content: >
-      Say hello on social media.  I am on
-      [Twitter](https://twitter.com/davidhuynhbooks),
-      [Instagram](https://www.instagram.com/davidhuynhbooks), and
-      [Facebook](https://www.facebook.com/davidhuynhbooks): @davidhuynhbooks.
+      Say hello on social media.  I am on Twitter, Instagram, and Facebook.
+      @davidhuynhbooks
     actions:
       - label: twitter
         url: 'https://twitter.com/davidhuynhbooks'
