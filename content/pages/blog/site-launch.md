@@ -10,7 +10,7 @@ seo:
   robots: []
   extra: []
 layout: post
-subtitle: Octo
+subtitle: 'October 12, '
 ---
 ## Lorem ipsum
 
