@@ -45,7 +45,7 @@ sections:
           book at the same time!*
 
 
-          3805 Main St.\<br>The Colony, TX
+          3805 Main St.<br>The Colony, TX
           75056\<br>[melisathepielady.com](https://melisathepielady.com)
         actions: []
     type: grid_section
