@@ -10,8 +10,6 @@ sections:
         subtitle: or internationally on
         image_alt: lorem-ipsum
         content: |
-
-
           *   amazon.co.uk
           *   amazon.de
           *   amazon.fr
@@ -20,6 +18,8 @@ sections:
           *   amazon.co.jp
           *   amazon.ca
           *   amazon.com.au
+
+          ![](/images/amazon-logo-transparent100w-59af7181.png)
         actions: []
       - title: 'Dallas, TX'
         subtitle: exclusive offer
