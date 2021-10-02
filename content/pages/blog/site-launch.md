@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'Site '
 subtitle: lorem-ipsum
 date: '2021-10-02'
 thumb_image_alt: lorem-ipsum
