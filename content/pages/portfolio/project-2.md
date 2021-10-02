@@ -17,10 +17,6 @@ sections:
       characters, and reinforce the concepts from both books.  The fun activity
       pages include crosswords, word searches, connect the dots, word scramble,
       counting, drawing, and more!
-  - type: image_section
-    image: images/work-branding-3.jpg
-    image_alt: Aimi 3
-    width: wide
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
