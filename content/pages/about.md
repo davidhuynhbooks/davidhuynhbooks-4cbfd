@@ -40,7 +40,7 @@ sections:
         icon: twitter
         new_window: false
         no_follow: false
-      - label: lorem-ipsum
+      - label: instagram
         url: '#'
         style: link
         icon: dribbble
