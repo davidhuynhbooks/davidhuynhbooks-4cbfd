@@ -6,7 +6,7 @@ thumb_image: /images/FrontCover-c8d67b0f.jpeg
 thumb_image_alt: Design Is One preview
 sections:
   - type: image_section
-    image: /images/FrontCover.jpg
+    image: /images/FrontCover-7279f140.jpg
     image_alt: Design Is One 1
     caption: This is the caption of the image
     width: wide
