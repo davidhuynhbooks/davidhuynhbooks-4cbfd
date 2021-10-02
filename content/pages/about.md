@@ -23,7 +23,6 @@ sections:
       from her than any book or class.  Seeing the world from her eyes fills
       each day with joy and possibility.
 
-    image: images/about.jpg
     image_alt: Our team in the meeting room
   - type: cta_section
     section_id: cta
