@@ -28,8 +28,8 @@ sections:
     section_id: cta
     title: Let's stay connected!
     content: >
-      Say hello on social media.  I am on Twitter, Instagram, and Facebook:
-      @davidhuynhbooks.
+      Say hello on social media.  I am on Twitter, Instagram, and Facebook.
+      @davidhuynhbooks
     image: images/cta-about.svg
     image_alt: Illustration
     bg_color: light
