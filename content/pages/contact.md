@@ -37,7 +37,7 @@ sections:
 
           ![](/images/amazon-logo-transparent100w-59af7181.png)
         actions:
-          - label: lorem-ipsum
+          - label: Buy on Amazon.com
             url: '#'
             style: link
             icon: dribbble
