@@ -7,7 +7,7 @@ thumb_image_alt: Design Is One preview
 sections:
   - type: image_section
     image: /images/FrontCover-7279f140.jpg
-    image_alt: 'Why is Elly '
+    image_alt: Why is Elly 1
     caption: This is the caption of the image
     width: regular
   - type: text_section
