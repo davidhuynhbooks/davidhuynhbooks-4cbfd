@@ -3,7 +3,7 @@ title: New Website
 date: '2021-10-02'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: It's been about 20 years since I worked on a website.
 seo:
   title: ''
   description: ''
