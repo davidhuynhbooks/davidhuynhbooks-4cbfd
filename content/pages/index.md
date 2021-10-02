@@ -64,7 +64,7 @@ sections:
       [Facebook](https://www.facebook.com/davidhuynhbooks): @davidhuynhbooks.
     actions:
       - label: twitter
-        url: https
+        url: 'https://twiter'
         style: icon
         icon: twitter
       - label: instagram
