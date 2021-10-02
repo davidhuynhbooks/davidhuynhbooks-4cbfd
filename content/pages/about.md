@@ -35,7 +35,7 @@ sections:
     bg_color: light
     actions:
       - label: twitter
-        url: '#'
+        url: 'https://twitter.com/davidhuynhbooks'
         style: icon
         icon: twitter
         new_window: false
