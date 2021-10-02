@@ -6,17 +6,6 @@ sections:
     subtitle: Books ship free through Amazon Prime around the world.
     col_number: three
     grid_items:
-      - title: 'Dallas, TX'
-        subtitle: exclusive offer
-        image_alt: lorem-ipsum
-        content: >
-          Available at **MeLisa the Pie Lady**<br>*Buy a delicious pie and a
-          book at the same time!*
-
-
-          3805 Main St.<br>The Colony, TX
-          75056<br>[melisathepielady.com](https://melisathepielady.com)
-        actions: []
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
@@ -31,6 +20,17 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
+        actions: []
+      - title: 'Dallas, TX'
+        subtitle: exclusive offer
+        image_alt: lorem-ipsum
+        content: >
+          Available at **MeLisa the Pie Lady**<br>*Buy a delicious pie and a
+          book at the same time!*
+
+
+          3805 Main St.<br>The Colony, TX
+          75056<br>[melisathepielady.com](https://melisathepielady.com)
         actions: []
     type: grid_section
 seo:
