@@ -51,7 +51,7 @@ sections:
         no_follow: false
 seo:
   title: About
-  description: This is the about us page
+  description: This is the about page
   extra:
     - name: 'og:type'
       value: website
