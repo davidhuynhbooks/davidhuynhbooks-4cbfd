@@ -49,6 +49,7 @@ sections:
             icon: dribbble
             new_window: false
             no_follow: false
+        title: Buy on Amazon.com
       - title: 'Dallas, TX'
         subtitle: exclusive offer
         image_alt: lorem-ipsum
