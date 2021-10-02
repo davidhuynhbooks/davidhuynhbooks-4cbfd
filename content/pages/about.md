@@ -43,7 +43,7 @@ sections:
       - label: instagram
         url: 'https://www.instagram.com/davidhuynhbooks'
         style: icon
-        icon: dribbble
+        icon: instagram
         new_window: false
         no_follow: false
       - label: lorem-ipsum
