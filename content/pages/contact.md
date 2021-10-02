@@ -7,14 +7,6 @@ sections:
     col_number: three
     grid_items:
       - image_alt: lorem-ipsum
-        content: |
-          adf
-
-          *   adf
-
-          *   fy
-
-          *   ghj
         actions:
           - label: lorem-ipsum
             url: '#'
