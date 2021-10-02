@@ -78,7 +78,7 @@ sections:
         icon: facebook
         new_window: false
         no_follow: false
-    image: images/cta.svg
+    image: /images/author portrait-a49fb78a.jpeg
     image_alt: Illustration
     bg_color: light
 layout: advanced
