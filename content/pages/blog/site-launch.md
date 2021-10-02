@@ -10,7 +10,6 @@ seo:
   robots: []
   extra: []
 layout: post
-subtitle: 'October 12, 2021'
 ---
 ## Lorem ipsum
 
