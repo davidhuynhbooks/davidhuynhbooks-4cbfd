@@ -36,7 +36,13 @@ sections:
 
 
           ![](/images/amazon-logo-transparent100w-59af7181.png)
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
       - title: 'Dallas, TX'
         subtitle: exclusive offer
         image_alt: lorem-ipsum
