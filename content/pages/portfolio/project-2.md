@@ -7,7 +7,7 @@ thumb_image_alt: Aimi preview
 sections:
   - type: image_section
     image: /images/ActivityBook-90980efd.png
-    image_alt: Aimi 1
+    image_alt: Elly and Friends
     caption: This is the caption of the image
     width: regular
   - type: text_section
