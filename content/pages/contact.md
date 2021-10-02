@@ -9,17 +9,17 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: |
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   amazon.co.uk
+          *   amazon.de
+          *   amazon.fr
+          *   amazon.es
+          *   amazon.it
+          *   amazon.co.jp
+          *   amazon.ca
+          *   amazon.com.au
         actions: []
       - title: 'Dallas, TX'
         subtitle: exclusive offer
