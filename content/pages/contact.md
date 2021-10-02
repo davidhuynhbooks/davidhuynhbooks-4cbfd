@@ -13,7 +13,7 @@ sections:
 
 
 
-          <br><br>![](/images/amazon-logo-transparent100w-cd644bb3.png)
+          <br>![](/images/amazon-logo-transparent100w-cd644bb3.png)
 
 
           <br>*Buy on
