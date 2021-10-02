@@ -8,7 +8,7 @@ sections:
     grid_items:
       - image_alt: lorem-ipsum
         content: >
-          #### On Amazon 
+          ####  ![](/images/amazon-logo-transparent100w.png)
 
 
           Buy on
