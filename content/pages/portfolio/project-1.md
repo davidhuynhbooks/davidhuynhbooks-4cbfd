@@ -9,7 +9,7 @@ sections:
     image: /images/FrontCover-7279f140.jpg
     image_alt: Design Is One 1
     caption: This is the caption of the image
-    width: wide
+    width: regular
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
