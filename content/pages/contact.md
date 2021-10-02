@@ -7,37 +7,14 @@ sections:
     col_number: three
     grid_items:
       - image_alt: lorem-ipsum
-        content: >
-          *  
-          [*amazon.co.uk*](https://www.amazon.co.uk/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
+        content: |
+          adf
 
+          *   adf
 
-          *  
-          [*amazon.de*](https://www.amazon.de/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
+          *   fy
 
-
-          *  
-          [*amazon.fr*](https://www.amazon.fr/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
-
-
-          *  
-          [*amazon.es*](https://www.amazon.es/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
-
-
-          *  
-          [*amazon.it*](https://www.amazon.it/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
-
-
-          *  
-          [*amazon.co.jp*](https://www.amazon.co.jp/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
-
-
-          *  
-          [*amazon.ca*](https://www.amazon.ca/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
-
-
-          *  
-          [*amazon.com.au*](https://www.amazon.com.au/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
+          *   ghj
         actions:
           - label: lorem-ipsum
             url: '#'
