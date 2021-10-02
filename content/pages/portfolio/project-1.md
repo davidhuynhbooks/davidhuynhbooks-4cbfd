@@ -27,7 +27,7 @@ sections:
       story with beautiful illustrations. The 5 Why technique was created by
       Sakichi Toyoda and was famously used within the Toyota Motor Corporation.
       This is a foundational concept that is now widely used in Lean, Six Sigma,
-      and Agile teams to understand problems and find solutions.*
+      and Agile teams to understand problems and find solutions.
 
 
       *Join Elly and her Dad as they figure out "Why is Elly Covered in Jelly?"
