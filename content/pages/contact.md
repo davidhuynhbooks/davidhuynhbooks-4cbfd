@@ -39,7 +39,7 @@ sections:
         actions:
           - label: Buy on Amazon.com
             url: >-
-              https://www.amazon.fr/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book_1
+              https://www.amazon.com/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book_1
             style: link
             icon: dribbble
             new_window: false
