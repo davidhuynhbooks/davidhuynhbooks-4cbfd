@@ -66,7 +66,7 @@ sections:
       - label: twitter
         url: /contact
         style: icon
-        icon: facebook
+        icon: twitter
       - label: instagram
         url: '#'
         style: icon
