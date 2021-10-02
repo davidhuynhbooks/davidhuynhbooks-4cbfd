@@ -16,10 +16,10 @@ sections:
       Early Childhood Education and Children's Asia & Asian America Stories!
 
 
-      *Creative thinking and problem solving are such important skills to
+      Creative thinking and problem solving are such important skills to
       develop and it is as simple as nurturing curiosity and learning to ask
       why. Children that are taught creative thinking skills become smarter,
-      more independent, and more creative.*
+      more independent, and more creative.
 
 
       *With this book children of all ages can easily learn the 5 Why technique
