@@ -41,14 +41,12 @@ sections:
         subtitle: exclusive offer
         image_alt: lorem-ipsum
         content: >
-          Available at **MeLisa the Pie Lady**
+          Available at **MeLisa the Pie Lady**\<br>*Buy a delicious pie and a
+          book at the same time!*
 
 
-          Buy a delicious pie and a book at the same time!
-          
-          3805 Main
-          St.<br>The Colony, TX
-          75056<br>[melisathepielady.com](https://melisathepielady.com)
+          3805 Main St.\<br>The Colony, TX
+          75056\<br>[melisathepielady.com](https://melisathepielady.com)
         actions: []
     type: grid_section
 seo:
