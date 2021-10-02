@@ -68,7 +68,7 @@ sections:
         style: button
       - label: lorem-ipsum
         url: '#'
-        style: button
+        style: icon
         icon: dribbble
         new_window: false
         no_follow: false
