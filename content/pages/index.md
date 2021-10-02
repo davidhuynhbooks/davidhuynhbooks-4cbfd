@@ -49,7 +49,7 @@ sections:
       - author: ★★★★★
         avatar: /images/chat-g1cb064641_640-d182fdf9.png
         avatar_alt: Dianne Ameter's photo
-        position: Parent
+        position: 'Amazon '
         content: >-
           David is a master of process management, and this simple format of a
           kids book gets the point of "5 whys" across better than any expert
