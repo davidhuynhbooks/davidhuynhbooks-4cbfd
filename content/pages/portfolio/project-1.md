@@ -33,10 +33,6 @@ sections:
       and understand what the best solution is to the jelly problem. This is a
       book that parents and children both love to read, with a very funny story
       and vibrant pictures that spark conversation after the story is over.
-  - type: image_section
-    image: images/work-poster-3.jpg
-    image_alt: Design Is One 3
-    width: wide
 seo:
   title: Design Is One
   description: This is the sample project description
