@@ -66,6 +66,7 @@ sections:
       - label: Let's start
         url: /contact
         style: icon
+        icon: facebook
       - label: lorem-ipsum
         url: '#'
         style: icon
