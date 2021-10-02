@@ -8,7 +8,7 @@ sections:
     grid_items:
       - image_alt: lorem-ipsum
         content: >
-          Also available on
+          Buy on
           [**Amazon.com**](https://www.amazon.com/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
           and internationally:
 
