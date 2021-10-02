@@ -73,7 +73,7 @@ sections:
         icon: instagram
         new_window: false
         no_follow: false
-      - label: lorem-ipsum
+      - label: facebook
         url: '#'
         style: icon
         icon: facebook
