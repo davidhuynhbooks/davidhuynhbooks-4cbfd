@@ -57,10 +57,10 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us
+      value: About
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: This is the about page
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
