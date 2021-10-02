@@ -10,6 +10,7 @@ seo:
   robots: []
   extra: []
 layout: post
+thumb_image: /images/Stackbit App.png
 ---
 ## Lorem ipsum
 
