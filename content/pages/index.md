@@ -75,7 +75,7 @@ sections:
         new_window: false
         no_follow: false
       - label: facebook
-        url: '#'
+        url: 'https://www.facebook.com/davidhuynhbooks'
         style: icon
         icon: facebook
         new_window: false
