@@ -8,7 +8,6 @@ sections:
   - type: image_section
     image: /images/3-644412b3.jpg
     image_alt: The Book 1
-    caption: This is the caption of the image
     width: regular
   - type: text_section
     content: >-
