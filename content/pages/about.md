@@ -49,7 +49,7 @@ sections:
       - label: facebook
         url: 'https://www.facebook.com/davidhuynhbooks'
         style: icon
-        icon: dribbble
+        icon: facebook
         new_window: false
         no_follow: false
 seo:
