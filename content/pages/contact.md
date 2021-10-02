@@ -17,7 +17,6 @@ sections:
           3805 Main St.<br>The Colony, TX
           75056<br>[melisathepielady.com](https://melisathepielady.com)
         actions: []
-        image: /images/melisa-logo-1-1-92x100.png
     type: grid_section
 seo:
   title: Contact
