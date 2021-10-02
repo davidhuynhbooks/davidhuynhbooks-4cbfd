@@ -26,7 +26,7 @@ sections:
     image_alt: Our team in the meeting room
   - type: cta_section
     section_id: cta
-    title: Connect with me.
+    title: Let's stay connected!
     content: >
       Say hello on social media.  I am on Twitter, Instagram, and Facebook:
       @davidhuynhbooks.
