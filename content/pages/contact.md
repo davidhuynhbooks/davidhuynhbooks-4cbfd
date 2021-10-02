@@ -7,7 +7,7 @@ sections:
     col_number: three
     grid_items:
       - title: Buy on Amazon.com
-        subtitle: lorem-ipsum
+        subtitle: or internationally on
         image_alt: lorem-ipsum
         content: |
 
