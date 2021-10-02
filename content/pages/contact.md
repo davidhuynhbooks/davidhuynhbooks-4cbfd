@@ -62,7 +62,7 @@ sections:
     type: grid_section
 seo:
   title: Shop
-  description: This is the contact page
+  description: This is the shop page
   extra:
     - name: 'og:type'
       value: website
