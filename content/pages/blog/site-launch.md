@@ -1,6 +1,5 @@
 ---
 title: New Website
-subtitle: lorem-ipsum
 date: '2021-10-02'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
