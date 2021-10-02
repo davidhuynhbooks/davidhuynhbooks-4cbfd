@@ -41,7 +41,7 @@ sections:
         subtitle: exclusive offer
         image_alt: lorem-ipsum
         content: >
-          Available at **MeLisa the Pie Lady**\<br>*Buy a delicious pie and a
+          Available at **MeLisa the Pie Lady**<br>*Buy a delicious pie and a
           book at the same time!*
 
 
