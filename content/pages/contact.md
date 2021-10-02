@@ -37,7 +37,7 @@ sections:
           *  
           [amazon.com.au](https://www.amazon.com.au/David-Huynh/e/B09H5745LY/ref=dp_byline_cont_book\_1)
         actions: []
-      - title: lorem-ipsum
+      - title: 'In the Dallas, TX'
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
