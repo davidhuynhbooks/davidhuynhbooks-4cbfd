@@ -7,7 +7,7 @@ thumb_image_alt: Design Is One preview
 sections:
   - type: image_section
     image: /images/FrontCover-7279f140.jpg
-    image_alt: Design Is One 1
+    image_alt: 'Why '
     caption: This is the caption of the image
     width: regular
   - type: text_section
@@ -16,10 +16,10 @@ sections:
       Early Childhood Education and Children's Asia & Asian America Stories!
 
 
-      Creative thinking and problem solving are such important skills to
-      develop and it is as simple as nurturing curiosity and learning to ask
-      why. Children that are taught creative thinking skills become smarter,
-      more independent, and more creative.
+      Creative thinking and problem solving are such important skills to develop
+      and it is as simple as nurturing curiosity and learning to ask why.
+      Children that are taught creative thinking skills become smarter, more
+      independent, and more creative.
 
 
       With this book children of all ages can easily learn the 5 Why technique
@@ -33,8 +33,7 @@ sections:
       Join Elly and her Dad as they figure out *"Why is Elly Covered in Jelly?"*
       and understand what the best solution is to the jelly problem. This is a
       book that parents and children both love to read, with a very funny story
-      and vibrant pictures that spark conversation after the story is
-      over.
+      and vibrant pictures that spark conversation after the story is over.
   - type: image_section
     image: images/work-poster-2.jpg
     image_alt: Design Is One 2
