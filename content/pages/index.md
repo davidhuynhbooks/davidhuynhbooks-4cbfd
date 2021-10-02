@@ -41,7 +41,7 @@ sections:
     subtitle: What people are saying about the Elly Problem Solving books
     col_number: three
     testimonials:
-      - author: Amazon Review
+      - author: ★★★★★
         avatar: /images/chat-g1cb064641_640.png
         avatar_alt: Desmond Eagle's photo
         position: ★★★★★
