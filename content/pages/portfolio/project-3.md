@@ -7,7 +7,7 @@ thumb_image_alt: The Book preview
 sections:
   - type: image_section
     image: /images/3-644412b3.jpg
-    image_alt: The Book 1
+    image_alt: Super Elly Problem Solver
     width: regular
   - type: text_section
     content: >-
