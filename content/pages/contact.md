@@ -1,5 +1,5 @@
 ---
-title: Shop Books
+title: All books available on Amazon!
 hide_title: false
 sections:
   - section_id: lorem-ipsum
