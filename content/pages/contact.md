@@ -3,7 +3,6 @@ title: All books available on Amazon!
 hide_title: false
 sections:
   - section_id: lorem-ipsum
-    title: Books ship worldwide
     subtitle: All books are available around the world on Amazon!
     col_number: three
     grid_items:
