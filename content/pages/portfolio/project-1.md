@@ -11,15 +11,29 @@ sections:
     caption: This is the caption of the image
     width: regular
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: >
+      *Why is Elly Covered in Jelly?* debuted as #1 in New Releases for both
+      Early Childhood Education and Children's Asia & Asian America Stories!
+
+
+      *Creative thinking and problem solving are such important skills to
+      develop and it is as simple as nurturing curiosity and learning to ask
+      why. Children that are taught creative thinking skills become smarter,
+      more independent, and more creative.*
+
+
+      *With this book children of all ages can easily learn the 5 Why technique
+      that has been used for decades in Fortune 500 organizations, in a fun
+      story with beautiful illustrations. The 5 Why technique was created by
+      Sakichi Toyoda and was famously used within the Toyota Motor Corporation.
+      This is a foundational concept that is now widely used in Lean, Six Sigma,
+      and Agile teams to understand problems and find solutions.*
+
+
+      *Join Elly and her Dad as they figure out "Why is Elly Covered in Jelly?"
+      and understand what the best solution is to the jelly problem. This is a
+       book that parents and children both love to read, with a very funny story and vibrant pictures that spark conversation after the story is 
+      over.*
   - type: image_section
     image: images/work-poster-2.jpg
     image_alt: Design Is One 2
