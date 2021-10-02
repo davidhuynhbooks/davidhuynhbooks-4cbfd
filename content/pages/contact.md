@@ -40,17 +40,13 @@ sections:
       - title: 'Dallas, TX'
         subtitle: exclusive offer
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Available at **MeLisa the Pie Lady**
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Buy a delicious pie and a book at the same time!\<br>3805 Main
+          St.\<br>The Colony, TX
+          75056\<br>[melisathepielady.com](https://melisathepielady.com)
         actions: []
     type: grid_section
 seo:
