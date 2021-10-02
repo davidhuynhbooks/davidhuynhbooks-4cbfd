@@ -8,7 +8,7 @@ sections:
     grid_items:
       - image_alt: lorem-ipsum
         content: >
-          ### On Amazon
+          #### On Amazon
 
 
           Buy on
