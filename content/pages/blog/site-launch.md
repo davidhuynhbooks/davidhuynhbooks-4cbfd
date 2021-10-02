@@ -11,6 +11,7 @@ seo:
   extra: []
 layout: post
 thumb_image: /images/Stackbit App.png
+image: /images/Stackbit App.png
 ---
 ## Lorem ipsum
 
