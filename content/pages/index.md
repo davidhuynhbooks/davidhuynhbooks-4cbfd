@@ -44,7 +44,7 @@ sections:
       - author: Amazon Review
         avatar: /images/chat-g1cb064641_640.png
         avatar_alt: Desmond Eagle's photo
-        position: Parent
+        position: ★★★★★
         content: "My family loves this book.\_ It is an extremely funny and creative way for children to understand the importance of finding the root cause of a problem."
       - author: Amazon Review
         avatar: /images/chat-g1cb064641_640-d182fdf9.png
