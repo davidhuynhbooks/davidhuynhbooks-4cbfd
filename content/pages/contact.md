@@ -3,7 +3,7 @@ title: All books available on Amazon!
 hide_title: false
 sections:
   - section_id: lorem-ipsum
-    subtitle: All books are available around the world on Amazon!
+    subtitle: 'Books '
     col_number: three
     grid_items:
       - title: Amazon.com
