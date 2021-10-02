@@ -6,16 +6,6 @@ sections:
     subtitle: Books ship free through Amazon Prime around the world.
     col_number: three
     grid_items:
-      - image_alt: lorem-ipsum
-        actions:
-          - label: lorem-ipsum
-            url: '#'
-            style: button
-            icon: dribbble
-            new_window: false
-            no_follow: false
-        title: Buy on Amazon.com
-        subtitle: 'or internationally:'
       - title: 'Dallas, TX'
         subtitle: exclusive offer
         image_alt: lorem-ipsum
