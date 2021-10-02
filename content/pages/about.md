@@ -34,7 +34,7 @@ sections:
     image_alt: Illustration
     bg_color: light
     actions:
-      - label: lorem-ipsum
+      - label: twitter
         url: '#'
         style: icon
         icon: twitter
