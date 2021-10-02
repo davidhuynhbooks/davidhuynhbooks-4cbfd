@@ -67,7 +67,7 @@ sections:
         url: /contact
         style: icon
         icon: facebook
-      - label: lorem-ipsum
+      - label: instagram
         url: '#'
         style: icon
         icon: instagram
