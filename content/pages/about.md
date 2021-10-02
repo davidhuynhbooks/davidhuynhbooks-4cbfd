@@ -41,7 +41,7 @@ sections:
         new_window: false
         no_follow: false
       - label: instagram
-        url: '#'
+        url: 'https://www.instagram.com/davidhuynhbooks'
         style: link
         icon: dribbble
         new_window: false
