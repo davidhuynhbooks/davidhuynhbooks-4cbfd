@@ -65,7 +65,7 @@ sections:
     actions:
       - label: Let's start
         url: /contact
-        style: button
+        style: icon
       - label: lorem-ipsum
         url: '#'
         style: icon
