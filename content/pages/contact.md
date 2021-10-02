@@ -3,7 +3,7 @@ title: All books available on Amazon!
 hide_title: false
 sections:
   - section_id: lorem-ipsum
-    subtitle: 'Books '
+    subtitle: Books ship free through Amazon Prime around the world.
     col_number: three
     grid_items:
       - title: Amazon.com
