@@ -86,7 +86,7 @@ sections:
     subtitle: Free Prime shipping on Amazon
     col_number: three
     grid_items:
-      - title: Why is Elly Covered in Jelly
+      - title: Why is Elly Covered in Jelly?
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
