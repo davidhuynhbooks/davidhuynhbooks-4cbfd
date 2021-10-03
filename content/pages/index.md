@@ -86,7 +86,7 @@ sections:
     subtitle: Free Prime shipping on Amazon
     col_number: three
     grid_items:
-      - title: lorem-ipsum
+      - title: Why is Elly
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
