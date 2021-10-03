@@ -27,7 +27,7 @@ sections:
     content: >
       Say hello on social media.  I am on Twitter, Instagram, and Facebook.
       @davidhuynhbooks
-    image: /images/author portrait-a49fb78a.jpeg
+    image: /images/author portrait.png
     image_alt: Illustration
     bg_color: light
     actions:
