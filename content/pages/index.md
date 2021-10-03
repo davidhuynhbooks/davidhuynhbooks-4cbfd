@@ -15,6 +15,26 @@ sections:
 
       My books are funny and educational, with the full intention of making
       children and parents happy while learning tools to solve problems better.
+  - section_id: Get the book
+    title: Get the book
+    subtitle: Free Prime shipping on Amazon
+    col_number: three
+    grid_items:
+      - title: Why is Elly Covered in Jelly?
+        subtitle: A 5 Why Problem Solving Book
+        image_alt: lorem-ipsum
+        content: |
+          Highly rated and loved by children, parents, and grandparents.
+        actions:
+          - label: Buy on Amazon.com
+            url: >-
+              https://www.amazon.com/dp/0578935139/ref=cm_sw_r_cp_api_glt_fabc_RYGT5FTZ4JNEN5M062VB
+            style: button
+            icon: dribbble
+            new_window: false
+            no_follow: false
+        image: /images/sitead.png
+    type: grid_section
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
@@ -81,26 +101,6 @@ sections:
     image: /images/author portrait-a49fb78a.jpeg
     image_alt: Illustration
     bg_color: light
-  - section_id: Get the book
-    title: Get the book
-    subtitle: Free Prime shipping on Amazon
-    col_number: three
-    grid_items:
-      - title: Why is Elly Covered in Jelly?
-        subtitle: A 5 Why Problem Solving Book
-        image_alt: lorem-ipsum
-        content: |
-          Highly rated and loved by children, parents, and grandparents.
-        actions:
-          - label: Buy on Amazon.com
-            url: >-
-              https://www.amazon.com/dp/0578935139/ref=cm_sw_r_cp_api_glt_fabc_RYGT5FTZ4JNEN5M062VB
-            style: button
-            icon: dribbble
-            new_window: false
-            no_follow: false
-        image: /images/sitead.png
-    type: grid_section
 layout: advanced
 seo:
   title: ''
