@@ -83,7 +83,7 @@ sections:
     bg_color: light
   - section_id: Buy Now
     title: Get the book
-    subtitle: lorem-ipsum
+    subtitle: Free Prime shipping on Amazon
     col_number: three
     grid_items: []
     type: grid_section
