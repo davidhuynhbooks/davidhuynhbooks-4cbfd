@@ -104,7 +104,7 @@ sections:
           - label: Buy on Amazon.com
             url: >-
               https://www.amazon.com/dp/0578935139/ref=cm_sw_r_cp_api_glt_fabc_RYGT5FTZ4JNEN5M062VB
-            style: link
+            style: button
             icon: dribbble
             new_window: false
             no_follow: false
