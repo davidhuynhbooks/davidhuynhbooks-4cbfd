@@ -81,7 +81,7 @@ sections:
     image: /images/author portrait-a49fb78a.jpeg
     image_alt: Illustration
     bg_color: light
-  - section_id: Buy Now
+  - section_id: Get the book
     title: Get the book
     subtitle: Free Prime shipping on Amazon
     col_number: three
