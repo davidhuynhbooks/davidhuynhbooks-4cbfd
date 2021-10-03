@@ -101,7 +101,7 @@ sections:
 
           - dolor sit amet
         actions:
-          - label: lorem-ipsum
+          - label: 'Buy '
             url: '#'
             style: link
             icon: dribbble
