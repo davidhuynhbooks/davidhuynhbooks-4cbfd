@@ -81,7 +81,7 @@ sections:
     image: /images/author portrait-a49fb78a.jpeg
     image_alt: Illustration
     bg_color: light
-  - section_id: lorem-ipsum
+  - section_id: Buy Now
     title: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
