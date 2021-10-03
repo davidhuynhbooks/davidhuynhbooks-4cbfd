@@ -89,17 +89,8 @@ sections:
       - title: Why is Elly Covered in Jelly?
         subtitle: A 5 Why Problem Solving Book
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Highly rated and loved by children, parents, and grandparents.
         actions:
           - label: Buy on Amazon.com
             url: >-
