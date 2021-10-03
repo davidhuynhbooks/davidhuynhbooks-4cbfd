@@ -87,7 +87,7 @@ sections:
     col_number: three
     grid_items:
       - title: Why is Elly Covered in Jelly?
-        subtitle: lorem-ipsum
+        subtitle: A 5 Why Problem Solving Book
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
