@@ -82,7 +82,7 @@ sections:
     image_alt: Illustration
     bg_color: light
   - section_id: Buy Now
-    title: lorem-ipsum
+    title: 'Buy '
     subtitle: lorem-ipsum
     col_number: three
     grid_items: []
