@@ -108,6 +108,7 @@ sections:
             icon: dribbble
             new_window: false
             no_follow: false
+        image: /images/sitead.png
     type: grid_section
 layout: advanced
 seo:
