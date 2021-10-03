@@ -101,7 +101,7 @@ sections:
 
           - dolor sit amet
         actions:
-          - label: 'Buy '
+          - label: Buy on Amazon.com
             url: '#'
             style: link
             icon: dribbble
