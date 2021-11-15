@@ -4,7 +4,7 @@ subtitle: lorem-ipsum
 date: '2021-11-15'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: Second book in the Elly problem series is launching soon!
 seo:
   title: ''
   description: ''
