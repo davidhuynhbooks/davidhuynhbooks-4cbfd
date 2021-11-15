@@ -11,6 +11,7 @@ seo:
   robots: []
   extra: []
 layout: post
+thumb_image: /images/FrontCover-Square-a1b4adf3.jpg
 ---
 ## Lorem ipsum
 
