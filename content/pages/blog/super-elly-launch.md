@@ -1,6 +1,6 @@
 ---
 title: Super Elly and The Mystery of the Missing Broccoli Launch
-subtitle: lorem-ipsum
+subtitle: The second book is almost here!
 date: '2021-11-15'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
