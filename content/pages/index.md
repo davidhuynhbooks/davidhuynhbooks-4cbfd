@@ -49,6 +49,7 @@ sections:
 
           - dolor sit amet
         actions: []
+        image: /images/FrontCover-Square-1d6ba5aa.jpg
     type: grid_section
   - type: portfolio_section
     section_id: latest-projects
