@@ -39,7 +39,13 @@ sections:
         image_alt: lorem-ipsum
         content: |
           Just released second book in the Elly Problem Solving series.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
         image: /images/FrontCover-Square-1d6ba5aa.jpg
     type: grid_section
   - type: portfolio_section
