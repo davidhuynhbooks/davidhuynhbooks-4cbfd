@@ -37,17 +37,8 @@ sections:
       - title: Super Elly and The Mystery of the Missing Broccoli
         subtitle: A 5S Problem Solving Book
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Just released second book in the Elly Problem Solving series.
         actions: []
         image: /images/FrontCover-Square-1d6ba5aa.jpg
     type: grid_section
