@@ -38,8 +38,9 @@ sections:
       - title: Super Elly and The Mystery of the Missing Broccoli
         subtitle: A 5S Problem Solving Book
         image_alt: lorem-ipsum
-        content: |
-          Just released second book in the Elly Problem Solving series.
+        content: >
+          Highly anticipated second book in the Elly Problem Solving series. 
+          Newly released and available exclusively on Amazon.
         actions:
           - label: Buy on Amazon.com
             url: >-
