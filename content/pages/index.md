@@ -40,7 +40,7 @@ sections:
         content: |
           Just released second book in the Elly Problem Solving series.
         actions:
-          - label: lorem-ipsum
+          - label: Buy on Amazon.com
             url: '#'
             style: button
             icon: dribbble
