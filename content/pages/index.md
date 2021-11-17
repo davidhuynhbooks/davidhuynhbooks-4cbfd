@@ -16,7 +16,7 @@ sections:
       My books are funny and educational, with the full intention of making
       children and parents happy while learning tools to solve problems better.
   - section_id: Get the book
-    title: Get the book
+    title: Get the books
     subtitle: Free Prime shipping on Amazon
     col_number: three
     grid_items:
