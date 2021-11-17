@@ -24,8 +24,8 @@ sections:
         subtitle: A 5 Why Problem Solving Book
         image_alt: lorem-ipsum
         content: >
-          \#1 New Release in Early Childhood Education.  Highly rated and loved
-          by children, parents, and grandparents.
+          Debuted as #1 New Release in Early Childhood Education.  Highly rated
+          and loved by children, parents, and grandparents.
         actions:
           - label: Buy on Amazon.com
             url: >-
