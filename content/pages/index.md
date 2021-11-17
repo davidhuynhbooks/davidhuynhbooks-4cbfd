@@ -35,7 +35,7 @@ sections:
             no_follow: false
         image: /images/sitead.png
       - title: Super Elly and The Mystery of the Missing Broccoli
-        subtitle: lorem-ipsum
+        subtitle: A 5S Problem Solving Book
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
