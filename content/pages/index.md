@@ -33,7 +33,7 @@ sections:
             icon: dribbble
             new_window: false
             no_follow: false
-        image: /images/sitead.png
+        image: /images/FrontCover-4c5bb329.jpeg
       - title: Super Elly and The Mystery of the Missing Broccoli
         subtitle: A 5S Problem Solving Book
         image_alt: lorem-ipsum
