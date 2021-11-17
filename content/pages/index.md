@@ -41,7 +41,8 @@ sections:
           Just released second book in the Elly Problem Solving series.
         actions:
           - label: Buy on Amazon.com
-            url: '#'
+            url: >-
+              https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09LZZCX5P%2Fref%3Dcm_sw_r_cp_api_glt_fabc_WXY2JVGAB6DJC8MZ04NP%3Ffbclid%3DIwAR3AnQvQ1tLuQTajUXcE5U0lI6Xjju072J8wq2Dsv_OIZqyqN1QzAUoSAyc&h=AT0x05cCtm49UDjyPPU2umgv5p6eS6ZcamASvz2LBf6FACsnWCeM213q9IafyhnJ37n6_KTgxQLip9plwnejoBzXf4gsQmqI_QNosuMT3_HZtK-uO5RPNwuYa9SYi-8GFgDd&__tn__=-UK-R&c[0]=AT0AEYrTNdbGFz_9cHMZBEPpCr3RMei8wnp93Axo6p_6qE8JthbATSWmszRFFt9LPzTWu7Y8TwDCn-psSoqZKqlB8_XFmxU-Vhy14vHmmnHfLhHOpu_YReXqhCQzRn8Ngd-o8R3EPCHxAvWOq0kJ8s-kUOqdPYyYii1B99cJgkDZIldRXtqgs_G4JQYh9iHjSzwz
             style: button
             icon: dribbble
             new_window: false
