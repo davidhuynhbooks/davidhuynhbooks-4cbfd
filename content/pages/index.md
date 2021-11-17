@@ -34,7 +34,7 @@ sections:
             new_window: false
             no_follow: false
         image: /images/sitead.png
-      - title: lorem-ipsum
+      - title: Super Elly and The Mystery of the Missing Broccoli
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
