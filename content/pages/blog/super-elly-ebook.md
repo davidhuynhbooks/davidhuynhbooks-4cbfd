@@ -11,7 +11,6 @@ seo:
   robots: []
   extra: []
 layout: post
-image: /images/superellyebook.png
 thumb_image: /images/superellyebook-da8501ac.png
 ---
 Both *Why is Elly Covered in Jelly?* and *Super Elly and The Mystery of the Missing Broccoli* are now available as eBooks and are free as part of KindleUnlimited!  Go check them out and purchase the paperback versions for your home and school libraries!
