@@ -1,6 +1,6 @@
 ---
 title: Elly Problem Solving Books
-subtitle: lorem-ipsum
+subtitle: All books are now available as eBooks!
 date: '2021-11-29'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
