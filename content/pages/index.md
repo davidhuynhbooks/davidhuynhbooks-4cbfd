@@ -68,8 +68,6 @@ sections:
       - image: /images/crayon-colored-pencil-g93c4f2f8b_640-5dc118c4.png
         image_alt: Logo 1
         subtitle: Coloring and Activity pages
-      - image_alt: Activity Pages
-        subtitle: activity pages
   - type: testimonials_section
     section_id: testimonials
     title: Book Reviews
